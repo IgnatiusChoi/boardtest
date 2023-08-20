@@ -1,5 +1,5 @@
 spring:
-    application: 
+    application:
         name: jpaservice
     datasource:
         url: jdbc:log4jdbc:mysql://seoulit701.iptime.org:3306/jpastart?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&allowPublicKeyRetrieval=true

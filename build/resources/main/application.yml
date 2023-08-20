@@ -1,8 +1,8 @@
 spring:
-    application: 
+    application:
         name: jpaservice
     datasource:
-        url: jdbc:log4jdbc:mysql://docker.cafj1439ngvj.ap-northeast-2.rds.amazonaws.com:3306/jpastart?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&allowPublicKeyRetrieval=true
+        url: jdbc:log4jdbc:mysql://docker.ccapigzjilto.ap-northeast-2.rds.amazonaws.com:3306/jpastart?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&allowPublicKeyRetrieval=true
         username: root
         password: 1111
         driver-class-name: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
